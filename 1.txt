@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 asdasd
 master
+=======
+asdasdasd
+dev
+>>>>>>> dev
